@@ -1,0 +1,22 @@
+Added: Curtain: Poirot's last case - Count: 4, Price: 9.99, Total: 39.96
+Initial: The mystery of the blue train - Count: 27, Price: 6.99, Total: 729
+Initial: After the funeral - Count: 28, Price: 6.99, Total: 784
+Initial: Curtain: Poirot's last case - Count: 27, Price: 9.99, Total: 729
+Initial: Evil under the sun - Count: 28, Price: 5.99, Total: 784
+Initial: Dumb witness - Count: 25, Price: 5.99, Total: 625
+Initial: Appointment with death - Count: 23, Price: 5.49, Total: 529
+Initial: Poirot investigates - Count: 27, Price: 9.99, Total: 729
+Initial: Hallowe'en party - Count: 23, Price: 9.99, Total: 529
+Initial: The Secret of Chimneys - Count: 30, Price: 16.66, Total: 900
+Initial: The Sittaford Mystery - Count: 22, Price: 13.68, Total: 484
+Initial: Death in the Clouds - Count: 26, Price: 13.68, Total: 676
+Initial: The kite runner - Count: 29, Price: 9.99, Total: 841
+Initial: A thousand splendid suns - Count: 21, Price: 9.99, Total: 441
+Initial: Harry Potter and the Philosopher's Stone - Count: 26, Price: 15.36, Total: 676
+Initial: Harry Potter and the Chamber of Secrets - Count: 24, Price: 15.36, Total: 576
+Initial: Harry Potter and the Prisoner of Azkaban - Count: 24, Price: 15.36, Total: 576
+Initial: Harry Potter and the Goblet of Fire - Count: 25, Price: 17.28, Total: 625
+Initial: Harry Potter and the Order of the Phoenix - Count: 25, Price: 17.38, Total: 625
+Initial: Harry Potter and the Half-Blood Prince - Count: 25, Price: 17.28, Total: 625
+Initial: Harry Potter and the Deathly Hallows - Count: 24, Price: 17.28, Total: 576
+Added: Harry Potter and the Order of the Phoenix - Count: 4, Price: 17.38, Total: 69.52
